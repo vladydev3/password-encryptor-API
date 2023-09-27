@@ -24,7 +24,7 @@ def test_verify_unsafe_password():
     assert verify("password") == "unsafe"
 
 def test_verify_moderately_safe_password():
-    assert verify("Password123") == "moderately safe"
+    assert verify("password123") == "moderately safe"
 
 def test_verify_secure_password():
     assert verify("SecurePassword123") == "secure password"
