@@ -1,0 +1,3 @@
+fastapi
+passlib
+pydantic
