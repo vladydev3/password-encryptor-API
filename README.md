@@ -4,7 +4,7 @@ This is a simple API to hash passwords using the bcrypt algorithm and check thei
 
 ## How to Install and Run the API
 
-1. Clone the repository from GitHub: `git clone https://github.com/your/repository.git`
+1. Clone the repository from GitHub: `git clone https://github.com/vladydev3/password-encryptor-API.git`
 2. Install the required dependencies using pip: `pip install -r requirements.txt`
 3. Run the API server: `uvicorn main:app --reload`
 
